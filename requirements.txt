@@ -4,3 +4,4 @@ openai
 python-dotenv
 playsound
 pyaudio
+googlesearch-python
